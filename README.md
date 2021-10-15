@@ -54,7 +54,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="bugo07's GitHub Stats" src="https://github-readme-stats.bugo07.vercel.app/api?username=BUGO07&show_icons=true&hide_border=true" />
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
+  [![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
 
 </details>
 

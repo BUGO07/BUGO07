@@ -1,4 +1,4 @@
-### Hi there, I'm Jesse - aka [bugo07][website] 👋
+### Hi there, I'm George - aka [bugo07][website] 👋
 
 [![Website](https://img.shields.io/website?label=bugodev.cf&style=for-the-badge&url=https%3A%2F%2Fbugodev.cf)](https://bugodev.cf)
 [![Twitter Follow](https://img.shields.io/twitter/follow/bugoLMAO?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FbugoLMAO&screen_name=bugoLMAO)

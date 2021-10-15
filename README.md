@@ -38,6 +38,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [ultra cursed minecraft video.](https://www.youtube.com/watch?v=csYyeSoYmn4)
 <!-- YOUTUBE:END -->
 
 ---

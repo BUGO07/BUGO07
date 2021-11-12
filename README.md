@@ -38,6 +38,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [OG Fortnite. #og #fortnite  #renegaderaider #skulltrooper #soccerskin](https://www.youtube.com/watch?v=JkZAKqgjBL4)
 - [ultra cursed minecraft video.](https://www.youtube.com/watch?v=csYyeSoYmn4)
 <!-- YOUTUBE:END -->
 

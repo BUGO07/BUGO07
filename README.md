@@ -38,6 +38,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Closest object was that Fortnite pp 🤔#fortnite #pp #object #close #right](https://www.youtube.com/watch?v=UAg1ycvC0J0)
 - [OG Fortnite. #og #fortnite  #renegaderaider #skulltrooper #soccerskin](https://www.youtube.com/watch?v=JkZAKqgjBL4)
 - [ultra cursed minecraft video.](https://www.youtube.com/watch?v=csYyeSoYmn4)
 <!-- YOUTUBE:END -->

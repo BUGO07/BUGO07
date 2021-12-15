@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Fortnite Chapter 3 infinite XP glitch after the patch. #chapter3 #xp #glitch #fortnite #winterfest](https://www.youtube.com/watch?v=lPMTXQLJJK0)
 - [Fortnite Chapter 3 XP Glitch #foryou #fyp #chapter3 #fortnite #xp #creative #glitch](https://www.youtube.com/watch?v=2KCtOt6nolU)
 - [Fortnite double movement. #fortnite #chapter3 #creative #double #movement #doublemovement](https://www.youtube.com/watch?v=8twae9p8cmI)
 - [Fortnite Chapter 3 XP glitch. #fortnite #chapter3 #xp #glitch #creative](https://www.youtube.com/watch?v=0bnn8o6av0Q)
 - [Which games should I do next? Don&#39;t forget to subscribe! :&rpar; #minecraft #fortnite](https://www.youtube.com/watch?v=_3vEveSPgtM)
-- [Closest object was that Fortnite pp 🤔#fortnite #pp #object #close #right](https://www.youtube.com/watch?v=UAg1ycvC0J0)
 <!-- YOUTUBE:END -->
 
 ---

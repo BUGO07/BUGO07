@@ -51,7 +51,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/BUGO07/discord-button-pagination/issues/1) in [BUGO07/discord-button-pagination](https://github.com/BUGO07/discord-button-pagination)
+1. ❗️ Opened issue [#1](https://github.com/BUGO07/BUGO07/issues/1) in [BUGO07/BUGO07](https://github.com/BUGO07/BUGO07)
 <!--END_SECTION:activity-->
 
 </details>

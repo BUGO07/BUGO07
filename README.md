@@ -5,8 +5,8 @@
 
 ## I'm a Gamer and a Developer
 
-- 🌱 I’m currently learning TypeScript and C# 😅
-- 🥅 2021 Goals: Make a good Discord bot and a private Minecraft Client.
+- 🌱 I’m currently learning popular javascrpit libraries.
+- 🥅 2022 Goals: Make a good Discord bot and a private Minecraft Client.
 - ⚡ Fun fact: I love to playing Minecraft & Cranking 90s in Fortnite.
 
 ### Connect with me:

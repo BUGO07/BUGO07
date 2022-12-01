@@ -3,11 +3,11 @@
 [![Website](https://img.shields.io/website?label=voltbot.cf&style=for-the-badge&url=https%3A%2F%2Fwww.voltbot.cf)](https://www.voltbot.cf)
 [![Twitter Follow](https://img.shields.io/twitter/follow/bugoLMAO?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FbugoLMAO&screen_name=bugoLMAO)
 
-## I'm a Gamer and a Developer
+## I'm a Developer
 
-- 🌱 I’m currently learning popular javascrpit libraries.
-- 🥅 2022 Goals: Make a good Discord bot and a private Minecraft Client.
-- ⚡ Fun fact: I love to playing CSGO & Cranking 90s in Fortnite.
+- 🌱 I’m currently learning C++.
+- 🥅 2022 Goals: Improve my Discord bot.
+- ⚡ Fun fact: I love playing CSGO & Fortnite.
 
 ### Connect with me:
 

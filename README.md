@@ -1,6 +1,6 @@
 ### Hi there, I'm George - aka [bugo07][website] 👋
 
-[![Website](https://img.shields.io/website?label=bugodev.cf&style=for-the-badge&url=https%3A%2F%2Fvoltbot.cf)](https://voltbot.cf)
+[![Website](https://img.shields.io/website?label=voltbot.cf&style=for-the-badge&url=https%3A%2F%2Fwww.voltbot.cf)](https://www.voltbot.cf)
 [![Twitter Follow](https://img.shields.io/twitter/follow/bugoLMAO?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FbugoLMAO&screen_name=bugoLMAO)
 
 ## I'm a Gamer and a Developer
@@ -58,7 +58,7 @@
 
 </details>
 
-[website]: https://voltbot.cf
+[website]: https://www.voltbot.cf
 [twitter]: https://twitter.com/bugoLMAO
 [youtube]: https://www.youtube.com/@bugo07
 [terminal]: https://github.com/microsoft/terminal

@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="bugodev.cf" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="voltbot.cf" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="bugo07 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="bugoLMAO | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
@@ -58,9 +58,9 @@
 
 </details>
 
-[website]: https://bugodev.cf
+[website]: https://voltbot.cf
 [twitter]: https://twitter.com/bugoLMAO
-[youtube]: https://www.youtube.com/channel/UCLQpNSJubjB-3y1DW-qeaJg
+[youtube]: https://www.youtube.com/@bugo07
 [terminal]: https://github.com/microsoft/terminal
 [javascript]: https://en.wikipedia.org/wiki/JavaScript
 [typescript]: https://en.wikipedia.org/wiki/TypeScript

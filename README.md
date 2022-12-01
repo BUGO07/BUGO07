@@ -62,7 +62,8 @@
 [twitter]: https://twitter.com/bugoLMAO
 [youtube]: https://www.youtube.com/channel/UCLQpNSJubjB-3y1DW-qeaJg
 [terminal]: https://github.com/microsoft/terminal
-[javascript]: https://en.wikipedia.org/wiki/JavaSript
+[javascript]: https://en.wikipedia.org/wiki/JavaScript
+[typescript]: https://en.wikipedia.org/wiki/TypeScript
 [css]: https://en.wikipedia.org/wiki/CSS
 [html]: https://en.wikipedia.org/wiki/HTML
 [mongodb]: https://www.mongodb.com/

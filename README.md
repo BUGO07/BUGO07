@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning popular javascrpit libraries.
 - 🥅 2022 Goals: Make a good Discord bot and a private Minecraft Client.
-- ⚡ Fun fact: I love to playing Minecraft & Cranking 90s in Fortnite.
+- ⚡ Fun fact: I love to playing CSGO & Cranking 90s in Fortnite.
 
 ### Connect with me:
 
@@ -33,17 +33,6 @@
 
 <br />
 <br />
-
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/BUGO07/BUGO07/issues/1) in [BUGO07/BUGO07](https://github.com/BUGO07/BUGO07)
-<!--END_SECTION:activity-->
-
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>

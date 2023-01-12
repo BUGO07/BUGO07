@@ -1,6 +1,6 @@
 ### Hi there, I'm George - aka [bugo07][website] 👋
 
-[![Website](https://img.shields.io/website?label=voltbot.cf&style=for-the-badge&url=https%3A%2F%2Fwww.voltbot.cf)](https://www.voltbot.cf)
+[![Website](https://img.shields.io/website?label=volt-bot.xyz&style=for-the-badge&url=https%3A%2F%2Fwww.volt-bot.xyz)](https://www.volt-bot.xyz)
 [![Twitter Follow](https://img.shields.io/twitter/follow/bugoLMAO?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FbugoLMAO&screen_name=bugoLMAO)
 
 ## I'm a Developer
@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="voltbot.cf" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="volt-bot.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="bugo07 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="bugoLMAO | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
@@ -47,7 +47,7 @@
 
 </details>
 
-[website]: https://www.voltbot.cf
+[website]: https://www.volt-bot.xyz
 [twitter]: https://twitter.com/bugoLMAO
 [youtube]: https://www.youtube.com/@bugo07
 [terminal]: https://github.com/microsoft/terminal

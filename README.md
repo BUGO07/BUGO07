@@ -5,8 +5,8 @@
 
 ## I'm a Developer
 
-- 🌱 I’m currently learning C++.
-- 🥅 2022 Goals: Improve my Discord bot.
+- 🌱 I’m currently learning React.
+- 🥅 2023 Goals: Improve my Discord bot.
 - ⚡ Fun fact: I love playing CSGO & Fortnite.
 
 ### Connect with me:

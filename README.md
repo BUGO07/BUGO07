@@ -42,9 +42,18 @@
   [![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=BUGO07&count_private=true&theme=tokyonight&showicons=true)]()
 
   <br />
+  
+</details>
 
+<details>
+  <summary>:zap: Top Languages</summary>
+  
+  <br />
+  
   [![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BUGO07&langs_count=5&theme=tokyonight)]()
-
+  
+  <br />
+  
 </details>
 
 [website]: https://www.volt-bot.xyz

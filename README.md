@@ -1,13 +1,13 @@
-### Hi there, I'm George - aka [bugo07][website] 👋
+### Hi there, I'm George - aka [bugo][website] 👋
 
 [![Website](https://img.shields.io/website?label=volt-bot.xyz&style=for-the-badge&url=https%3A%2F%2Fwww.volt-bot.xyz)](https://www.volt-bot.xyz)
 [![Twitter Follow](https://img.shields.io/twitter/follow/bugoLMAO?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FbugoLMAO&screen_name=bugoLMAO)
 
 ## I'm a Developer
 
-- 🌱 I’m currently learning React.
-- 🥅 2023 Goals: Improve my Discord bot.
-- ⚡ Fun fact: I love playing CSGO & Fortnite.
+- 😠 I’m currently suffering in junior year of highschool.
+- 🥅 2024 Goals: Get a Job.
+- ⚡ Fun fact: I love playing CSGO & Minecraft.
 
 ### Connect with me:
 

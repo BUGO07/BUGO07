@@ -21,7 +21,7 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 [<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][typescript]
-[<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][cpp]
+[<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][cs]
 [<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />][rust]
 
 <br />
@@ -53,6 +53,7 @@
 [youtube]: https://www.youtube.com/@bugo07
 [javascript]: https://en.wikipedia.org/wiki/JavaScript
 [typescript]: https://en.wikipedia.org/wiki/TypeScript
+[cs]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
 [css]: https://en.wikipedia.org/wiki/CSS
 [html]: https://en.wikipedia.org/wiki/HTML
 [rust]: https://www.rust-lang.org/

@@ -5,6 +5,7 @@
 - 😠 I’m currently suffering in senior year of highschool.
 - 🥅 2025 Goals: Graduate and get a car.
 - ⚡ Fun fact: I love playing CS2, Fortnite & Minecraft.
+- 💪 Nobody gives a shit: I bench 100kg (225lbs)
 
 ### Languages I Know Well:
 

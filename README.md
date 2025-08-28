@@ -2,10 +2,15 @@
 
 ## I'm a Developer
 
-- 😠 I’m currently suffering in senior year of highschool.
-- 🥅 2025 Goals: Graduate and get a car.
-- ⚡ Fun fact: I love playing CS2, Fortnite & Minecraft.
-- 💪 Nobody gives a shit: I bench 100kg (220lbs)
+- 😠 Currently studying Computer Science at TSU.
+- 🥅 2025 Goals: Get a driver's license and a car.
+- ⚡ Hobbies: GameDev, OSDev, Gaming, Gym.
+
+### Notable Projects
+- [`ChronOS`](https://github.com/BUGO07/chronos) - My own operating system.
+- [`FlappyOS`](https://github.com/BUGO07/flappyos) - Flappy Bird clone running in an OS kernel.
+- [`Ferriscraft`](https://github.com/BUGO07/ferriscraft) - Minecraft clone written in rust using [`bevy`](https://bevy.org/).
+- [`FerriscraftGL`](https://github.com/BUGO07/ferriscraft-gl-experiments) - OpenGL rewrite of Ferriscraft (soon to become a seperate game).
 
 ### Languages I Know Well:
 
@@ -16,7 +21,8 @@
 [<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][cs]
 
 <br />
-<br />
+
+#### I've also written (but don't specialize) in C++, x86 Assembly and Python.
 
 <details>
   <summary>:zap: GitHub Stats</summary>

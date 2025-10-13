@@ -24,27 +24,15 @@
 
 #### I've also written (but don't specialize) in C++, x86 Assembly and Python.
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+##### ⚡ GitHub Stats
 
-  <br />
-  
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BUGO07&show_icons=true&theme=radical)]()
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BUGO07&show_icons=true&theme=radical)]()
+<br />
 
-  <br />
-  
-</details>
+##### ⚡ Top Languages
 
-<details>
-  <summary>:zap: Top Languages</summary>
-  
-  <br />
-  
-  [![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BUGO07&langs_count=10&layout=compact&theme=radical)]()
-  
-  <br />
-  
-</details>
+[![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BUGO07&langs_count=10&layout=compact&theme=radical)]()
+<br />
 
 [twitter]: https://twitter.com/bugoLMAO
 [youtube]: https://www.youtube.com/@bugo07

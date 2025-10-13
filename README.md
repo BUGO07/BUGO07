@@ -29,7 +29,7 @@
 
   <br />
   
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=BUGO07&count_private=true&theme=tokyonight&showicons=true)]()
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BUGO07&show_icons=true&theme=radical)]()
 
   <br />
   
@@ -40,7 +40,7 @@
   
   <br />
   
-  [![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BUGO07&langs_count=5&theme=tokyonight)]()
+  [![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BUGO07&langs_count=10&layout=compact&theme=radical)]()
   
   <br />
   

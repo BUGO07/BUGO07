@@ -3,7 +3,7 @@
 ## I'm a Developer
 
 - 😠 Currently studying Computer Science at TSU.
-- 🥅 2025 Goals: Get a driver's license and a car.
+- 🥅 2026 Goals: Get a driver's license and a car.
 - ⚡ Hobbies: GameDev, OSDev, Gaming, Gym.
 
 ### Notable Projects
@@ -11,6 +11,7 @@
 - [`FlappyOS`](https://github.com/BUGO07/flappyos) - Flappy Bird clone running in an OS kernel.
 - [`Ferriscraft`](https://github.com/BUGO07/ferriscraft) - Minecraft clone written in rust using [`bevy`](https://bevy.org/).
 - [`FerriscraftGL`](https://github.com/BUGO07/ferriscraft-gl-experiments) - OpenGL rewrite of Ferriscraft (soon to become a seperate game).
+- [`RayTracing`](https://github.com/BUGO07/raytracing-compute) - Small RayTracing engine written on the cpu and later ported onto the gpu using a compute shader.
 
 ### Languages I Know Well:
 
@@ -26,16 +27,14 @@
 
 ##### ⚡ GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BUGO07&show_icons=true&theme=radical)]()
+[![GitHub Stats](https://github-readme-stats-coral-xi-20.vercel.app/api?username=BUGO07&show_icons=true&theme=radical)]()
 <br />
 
 ##### ⚡ Top Languages
 
-[![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BUGO07&langs_count=10&layout=compact&theme=radical)]()
+[![Language Stats](https://github-readme-stats-coral-xi-20.vercel.app/api/top-langs/?username=BUGO07&langs_count=10&layout=compact&theme=radical)]()
 <br />
 
-[twitter]: https://twitter.com/bugoLMAO
-[youtube]: https://www.youtube.com/@bugo07
 [javascript]: https://en.wikipedia.org/wiki/JavaScript
 [java]: https://en.wikipedia.org/wiki/Java
 [typescript]: https://en.wikipedia.org/wiki/TypeScript

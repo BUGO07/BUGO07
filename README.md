@@ -8,9 +8,8 @@
 
 ### Notable Projects
 - [`ChronOS`](https://github.com/BUGO07/chronos) - My own operating system.
-- [`FlappyOS`](https://github.com/BUGO07/flappyos) - Flappy Bird clone running in an OS kernel.
+- [`Lang`](https://github.com/BUGO07/lang) - My own programming language.
 - [`Ferriscraft`](https://github.com/BUGO07/ferriscraft) - Minecraft clone written in rust using [`bevy`](https://bevy.org/).
-- [`FerriscraftGL`](https://github.com/BUGO07/ferriscraft-gl-experiments) - OpenGL rewrite of Ferriscraft (soon to become a seperate game).
 - [`RayTracing`](https://github.com/BUGO07/raytracing-compute) - Small RayTracing engine written on the cpu and later ported onto the gpu using a compute shader.
 
 ### Languages I Know Well:
